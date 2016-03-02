@@ -10,7 +10,7 @@ All external documentation is found in the `docs/` folder.
 
 ### Clone the repo
 ```
-git clone --recursive git@github.com:hjorthjort/Waft.git
+git clone --recursive git@github.com:mhgbrg/Waft.git
 ```
 
 ### Configuration
